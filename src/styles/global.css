@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src: url('../../public/assets/fonts/comfortaa/Comfortaa-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 800;
+    src: url('../../public/assets/fonts/comfortaa/Comfortaa-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url('../../public/assets/fonts/ibm/IBMPlexMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: url('../../public/assets/fonts/ibm/IBMPlexMono-SemiBold.ttf');
+}
+
+.comfortaa-light {
+    font-family: 'Comfortaa';
+    font-weight: 300;
+}
+
+.comfortaa-bold {
+    font-family: 'Comfortaa';
+    font-weight: 600;
+}
+
+.ibm-md {
+    font-family: 'IBM Plex Mono';
+    font-weight: 400;
+}
+
+.ibm-semibold {
+    font-family: 'IBM Plex Mono';
+    font-weight: 600;
+}
