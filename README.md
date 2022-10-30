@@ -63,3 +63,6 @@ npm run build-prod
 
 Now, your blog is ready to be deployed. All generated files are located at `out` folder, which you can deploy with any hosting service.
 
+### Demo Project
+
+Link: [Click here](https://myresume-abdul.vercel.app/)
