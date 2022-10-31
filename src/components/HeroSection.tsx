@@ -26,7 +26,7 @@ export default function HeroSection() {
         </span>
         .
       </h3>
-      <div className="mx-auto flex justify-center px-8">
+      <div className="mx-auto flex justify-center">
         <Button
           title="Hire Me!"
           link="https://id.linkedin.com/in/wakhidabdul82"

@@ -6,7 +6,7 @@ export default function MySkills() {
       <h1 className="comfortaa-bold text-center text-2xl">
         My Knowledge & Working Skills :
       </h1>
-      <div className="mx-auto flex justify-center px-8 pt-6">
+      <div className="mx-auto flex justify-center pt-6">
         <span className="mx-2 inline-flex items-center justify-center rounded-md border-black bg-orange-600 px-4 py-2 text-base font-semibold leading-none text-orange-100">
           Laravel
         </span>
@@ -17,7 +17,7 @@ export default function MySkills() {
           Vue JS
         </span>
       </div>
-      <div className="mx-auto flex justify-center px-8 py-6">
+      <div className="mx-auto flex justify-center py-6">
         <span className="mx-2 inline-flex items-center justify-center rounded-md border-black bg-blue-400 px-4 py-1 text-base font-semibold leading-none text-blue-100">
           Tailwind CSS
         </span>

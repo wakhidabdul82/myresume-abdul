@@ -10,7 +10,7 @@ export default function ConnectMe() {
           <img src="/assets/images/social-media.png" alt="" />
         </span>
       </a>
-      <p className="comfortaa-bold pt-6 text-center text-3xl text-black">
+      <p className="comfortaa-bold mx-2 pt-6 text-center text-3xl text-black">
         connect with me? click button below!
       </p>
       <div className="mx-auto flex justify-center px-8 pb-6 pt-4 text-black">
